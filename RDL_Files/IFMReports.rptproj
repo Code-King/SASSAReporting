@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ToolsVersion="2.0">
+  <State>$base64$PFNvdXJjZUNvbnRyb2xJbmZvIHhtbG5zOnhzZD0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zOmRkbDI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yIiB4bWxuczpkZGwyXzI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yLzIiIHhtbG5zOmRkbDEwMF8xMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDA4L2VuZ2luZS8xMDAvMTAwIiB4bWxuczpkZGwyMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEwL2VuZ2luZS8yMDAiIHhtbG5zOmRkbDIwMF8yMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEwL2VuZ2luZS8yMDAvMjAwIiB4bWxuczpkd2Q9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vRGF0YVdhcmVob3VzZS9EZXNpZ25lci8xLjAiPg0KICA8RW5hYmxlZD5mYWxzZTwvRW5hYmxlZD4NCiAgPFByb2plY3ROYW1lPjwvUHJvamVjdE5hbWU+DQogIDxBdXhQYXRoPjwvQXV4UGF0aD4NCiAgPExvY2FsUGF0aD48L0xvY2FsUGF0aD4NCiAgPFByb3ZpZGVyPjwvUHJvdmlkZXI+DQo8L1NvdXJjZUNvbnRyb2xJbmZvPg==</State>
+  <DataSources>
+    <ProjectItem>
+      <Name>SBV.rds</Name>
+      <FullPath>SBV.rds</FullPath>
+    </ProjectItem>
+  </DataSources>
+  <DataSets>
+    <ProjectItem>
+      <Name>DataSet1.rsd</Name>
+      <FullPath>DataSet1.rsd</FullPath>
+    </ProjectItem>
+  </DataSets>
+  <Reports>
+    <ProjectItem>
+      <Name>AccessToSocialServices.rdl</Name>
+      <FullPath>AccessToSocialServices.rdl</FullPath>
+    </ProjectItem>
+    <ResourceProjectItem>
+      <Name>AzandeReports.rptproj</Name>
+      <FullPath>AzandeReports.rptproj</FullPath>
+      <MimeType>application/octet-stream</MimeType>
+    </ResourceProjectItem>
+    <ProjectItem>
+      <Name>ClubAssociation.rdl</Name>
+      <FullPath>ClubAssociation.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Community Economic Profile.rdl</Name>
+      <FullPath>Community Economic Profile.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Education.rdl</Name>
+      <FullPath>Education.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>EducationaHistory.rdl</Name>
+      <FullPath>EducationaHistory.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Employment.rdl</Name>
+      <FullPath>Employment.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>EmploymentSats.rdl</Name>
+      <FullPath>EmploymentSats.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Food Security.rdl</Name>
+      <FullPath>Food Security.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Health Care Attention.rdl</Name>
+      <FullPath>Health Care Attention.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>HomeAffairsReport.rdl</Name>
+      <FullPath>HomeAffairsReport.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Household Needs.rdl</Name>
+      <FullPath>Household Needs.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Household Profiling.rdl</Name>
+      <FullPath>Household Profiling.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>HouseHoldServiceProfile.rdl</Name>
+      <FullPath>HouseHoldServiceProfile.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Incident Report.rdl</Name>
+      <FullPath>Incident Report.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Land Tenure Access and Restitution.rdl</Name>
+      <FullPath>Land Tenure Access and Restitution.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>maritalStats.rdl</Name>
+      <FullPath>maritalStats.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Referral Details Report.rdl</Name>
+      <FullPath>Referral Details Report.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>SASSA Card and Utility.rdl</Name>
+      <FullPath>SASSA Card and Utility.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>SASSAsurveyDetails.rdl</Name>
+      <FullPath>SASSAsurveyDetails.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Service Referral Details.rdl</Name>
+      <FullPath>Service Referral Details.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Service Referral Report Dashboard.rdl</Name>
+      <FullPath>Service Referral Report Dashboard.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Social Participation.rdl</Name>
+      <FullPath>Social Participation.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>SurveyReport.rdl</Name>
+      <FullPath>SurveyReport.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Access To basic services.rdl</Name>
+      <FullPath>Access To basic services.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>AccessToHealthService.rdl</Name>
+      <FullPath>AccessToHealthService.rdl</FullPath>
+    </ProjectItem>
+  </Reports>
+  <Configurations>
+    <Configuration>
+      <Name>Debug</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <OutputPath>bin\Debug</OutputPath>
+        <TargetServerVersion>SSRS2008R2</TargetServerVersion>
+        <TargetFolder>IFMReports</TargetFolder>
+        <TargetDataSourceFolder>Data Sources</TargetDataSourceFolder>
+        <TargetDatasetFolder>Datasets</TargetDatasetFolder>
+        <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
+      </Options>
+    </Configuration>
+    <Configuration>
+      <Name>DebugLocal</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <OutputPath>bin\DebugLocal</OutputPath>
+        <TargetServerVersion>SSRS2008R2</TargetServerVersion>
+        <TargetFolder>IFMReports</TargetFolder>
+        <TargetDataSourceFolder>Data Sources</TargetDataSourceFolder>
+        <TargetDatasetFolder>Datasets</TargetDatasetFolder>
+        <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
+      </Options>
+    </Configuration>
+    <Configuration>
+      <Name>Release</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <OutputPath>bin\Release</OutputPath>
+        <TargetServerVersion>SSRS2008R2</TargetServerVersion>
+        <TargetFolder>IFMReports</TargetFolder>
+        <TargetDataSourceFolder>Data Sources</TargetDataSourceFolder>
+        <TargetDatasetFolder>Datasets</TargetDatasetFolder>
+        <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
+      </Options>
+    </Configuration>
+  </Configurations>
+</Project>
