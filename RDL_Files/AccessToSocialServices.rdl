@@ -1342,10 +1342,10 @@
     <DataSource Name="AccessToSocialServices">
       <ConnectionProperties>
         <DataProvider>SQL</DataProvider>
-        <ConnectString>Data Source=INFORMATION-SYS\SQLSERVER2016;Initial Catalog=AzandeWOP</ConnectString>
-        <IntegratedSecurity>true</IntegratedSecurity>
+        <ConnectString>Data Source=WIN-4ENIKSDSDGU\SASSA;Initial Catalog=AzandeWOP</ConnectString>
+        <Prompt>Specify a user name and password for data source AccessToSocialServices:</Prompt>
       </ConnectionProperties>
-      <rd:SecurityType>Integrated</rd:SecurityType>
+      <rd:SecurityType>DataBase</rd:SecurityType>
       <rd:DataSourceID>84d4d4b3-b86d-4443-bc90-dfa3ebddb692</rd:DataSourceID>
     </DataSource>
   </DataSources>
